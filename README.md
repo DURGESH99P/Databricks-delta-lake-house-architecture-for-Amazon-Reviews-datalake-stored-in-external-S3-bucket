@@ -1,0 +1,1 @@
+# Databricks-delta-lake-house-architecture-for-Amazon-Reviews-datalake-stored-in-externla-S3-bucket
